@@ -1,4 +1,3 @@
-meowthsli.github.io
-===================
+# Cactus Jekyll theme
 
-Bglo
+Cactus is a theme for Jekyll. Check out the <a href="http://wolfr.github.io/cactus-jekyll-theme/">demo</a>.
